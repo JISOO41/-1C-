@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/multimedia/u8g2/u8g2", 
+  "ver": "latest", 
+  "name": "U8G2"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/mpu6xxx", 
+  "ver": "latest", 
+  "name": "MPU6XXX"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/sr04", 
+  "ver": "latest", 
+  "name": "SR04"
+ }
+]
